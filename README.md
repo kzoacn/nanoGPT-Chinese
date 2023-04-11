@@ -1,5 +1,5 @@
 
-# nanoGPT
+# nanoGPT-Chinese
 
 ![nanoGPT](assets/nanogpt.jpg)
 
